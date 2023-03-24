@@ -78,7 +78,8 @@
   },
   "scripts": {
     "start": "vite",
-    "dev": "vite build"
+    "build": "vite build",
+    "prv": "vite preview --port 5173"
   },
   "keywords": [],
   "author": "",
